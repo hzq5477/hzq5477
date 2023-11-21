@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hzq5477
+- 👋 Hi, I’m @hzq5477 Zhuoqi Huang, or you can call me Troy!
 - 👀 I’m interested in distributed systems, blockchain
 - 🌱 I’m currently a master‘s in Computer Engineering at UIUC
 - 📫 reach out to me via hzq5477@gmail.com
